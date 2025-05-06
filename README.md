@@ -43,3 +43,9 @@ This project will take about a week and three days to complete with the website 
 
 Budget:
 The total budget for completing the website will be no more than R75 000
+
+Part 2 changes
+some changes were made for part two of this POE, i used css to style my website and create a unique layout of my liking.
+some changes for fonts were made including font size, style, and color.
+some new photos were used 
+i also made use of a background picture across all pages.
